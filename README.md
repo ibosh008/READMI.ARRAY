@@ -11,7 +11,7 @@ let fruit = ["apple", "banana", "orange"];
 
 ---
 
-# 📍 Index дар Array
+#  Index дар Array
 
 ```js
 let fruit = ["apple", "banana", "orange"];
